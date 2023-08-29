@@ -1,4 +1,4 @@
 # C_Cods
-C language coding 
-These files are containg solution of Basic Problems in C Language.
-This is useful for Beginners as well as for revising the concepts.
+C language coding <br>
+These files are containg solution of Basic Problems in C Language. <br>
+This is useful for<b> Beginners </b>as well as for revising the concepts.
